@@ -1,4 +1,3 @@
-Markdown
 # Hotel Revenue & Yield Optimization Dashboard
 
 ### Overview
